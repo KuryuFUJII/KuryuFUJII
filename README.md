@@ -1,16 +1,23 @@
-### Hi there 👋
+# About Me
 
-<!--
-**KuryuFUJII/KuryuFUJII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a SOUND designer from Japan🇯🇵
 
-Here are some ideas to get you started:
+2. My favorites are MaxMSP, AbletonLive, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. You can find [My Portfolio site]()
+
+4. You can find my [Qiita]()
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=KuryuFUJII&show_icons=true&locale=en&layout=compact)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,css,js" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=ableton,unity,ai,ae,ps,pr" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=anaconda,git,github,vscode,visualstudio,linux,figma" /> <br /><br />
