@@ -4,11 +4,11 @@
 
 2. My favorites are MaxMSP, AbletonLive, Python
 
-3. You can find [My Portfolio site]()
+3. You can find [My Portfolio site]() ← Comming Soon..
 
 4. You can find my [Qiita](https://qiita.com/KuryuFUJII)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=KuryuFUJII&show_icons=true&locale=en&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs?username=KuryuFUJII&show_icons=true&locale=en&layout=compact)-->
 
 ## Programming Languages
 
